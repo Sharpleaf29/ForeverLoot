@@ -1,6 +1,8 @@
 # ForeverLoot
 
-A small loot browser for **WoW: Forever**. It shows you what drops in every dungeon and raid, filtered down to the stuff your class and spec can actually use.
+A small loot browser for **WoW: Forever**. It shows you what drops in dungeons and raids, filtered down to the stuff your class and spec can actually use.
+
+**Still in beta.** Loot tables for most dungeons and raids are not known yet. Empty rows and missing bosses will get filled in as those drops are figured out.
 
 Type `/fl` in chat or click the minimap button to open it.
 
