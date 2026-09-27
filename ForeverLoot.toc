@@ -1,0 +1,9 @@
+## Interface: 16001
+## Title: |cffffd100ForeverLoot|r
+## Notes: Dungeon and raid loot for WoW: Forever
+## Version: 0.1.0
+## SavedVariables: ForeverLootDB
+
+core.lua
+data/instances.lua
+ui.lua
